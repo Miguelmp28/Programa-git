@@ -1,0 +1,3 @@
+git remote add Programa-git https://github.com/Miguelmp28/Programa-git.git
+
+git remote -v
